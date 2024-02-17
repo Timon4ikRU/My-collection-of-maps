@@ -1,7 +1,7 @@
 # My-collection-of-maps
 1. **Computer(Компьютер)** https://logic-arrows.io/map-MB9F2GvA (Last update: 14.02.2024)
 2. **BCD Converter(BCD Конвертер)** https://logic-arrows.io/map-CEZ87glB
-3. **ROM 1 cell = 1 bi1(ПЗУ 1 клетка = 1 бит)** https://logic-arrows.io/map-XYOyV9tl
+3. **ROM 1 cell = 1 bit(ПЗУ 1 клетка = 1 бит)** https://logic-arrows.io/map-XYOyV9tl
 4. **RAM x64 byte (ОЗУ 64 байт)** https://logic-arrows.io/map-81CE0E84
 5. **RAM x256 byte (ОЗУ 256 байт)**  https://logic-arrows.io/map-kDaOR-ps
 6. **Processor (Процессор)** https://logic-arrows.io/map-mKJ4m-Q8
