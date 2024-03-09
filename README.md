@@ -16,3 +16,4 @@
 15. **Transmitters (Передатчики)** https://logic-arrows.io/map-LiNvUBBP
 16. **Logic gates (Логические вентили)** https://logic-arrows.io/map-d0YuD6eg
 17. **Cellular automaton "Ant" (Клеточный автомат "Муравей")** https://logic-arrows.io/map-E9VFEurk
+ATTENTION! I HAVE BEEN HACKED, SO PLEASE DO NOT BELIEVE WHAT SOMEONE WRITES ON MY BEHALF! ВНИМАНИЕ! МЕНЯ ВЗЛОМАЛИ, ПОЭТОМУ ПРОШУ НЕ ВЕРИТЬ ТОМУ ЧТО КТО ТО ПИШЕТ ОТ МОЕГО ИМЕНИ!
